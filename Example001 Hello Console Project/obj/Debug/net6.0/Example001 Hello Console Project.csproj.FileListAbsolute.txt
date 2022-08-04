@@ -1,0 +1,15 @@
+E:\Илья\обучение\Examples\Example001 Hello Console Project\bin\Debug\net6.0\Example001 Hello Console Project.exe
+E:\Илья\обучение\Examples\Example001 Hello Console Project\bin\Debug\net6.0\Example001 Hello Console Project.deps.json
+E:\Илья\обучение\Examples\Example001 Hello Console Project\bin\Debug\net6.0\Example001 Hello Console Project.runtimeconfig.json
+E:\Илья\обучение\Examples\Example001 Hello Console Project\bin\Debug\net6.0\Example001 Hello Console Project.dll
+E:\Илья\обучение\Examples\Example001 Hello Console Project\bin\Debug\net6.0\Example001 Hello Console Project.pdb
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.csproj.AssemblyReference.cache
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.AssemblyInfoInputs.cache
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.AssemblyInfo.cs
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.csproj.CoreCompileInputs.cache
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.dll
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\refint\Example001 Hello Console Project.dll
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.pdb
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\Example001 Hello Console Project.genruntimeconfig.cache
+E:\Илья\обучение\Examples\Example001 Hello Console Project\obj\Debug\net6.0\ref\Example001 Hello Console Project.dll
